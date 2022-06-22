@@ -142,3 +142,7 @@ iframe {
   width: 120px;
   margin-top: 10px;
 }
+.features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
