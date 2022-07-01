@@ -1,0 +1,22 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardo-UX01/frontend.git"
+  },
+  "author": "Eduardo Trejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduardo-UX01/frontend/issues"
+  },
+  "homepage": "https://github.com/Eduardo-UX01/frontend#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}

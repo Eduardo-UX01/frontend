@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: #fffbf7;
 }
@@ -379,6 +385,10 @@ iframe {
     margin-top: 130px;
   }
 
+  .logo {
+    width: 40%;
+  }
+
   h1 {
     font-size: 30px;
   }
@@ -457,3 +467,5 @@ iframe {
 
 /** dispositivos extra grandes (monitores grandes, tvs) */
 @media (min-width: 1200px) {
+
+}
