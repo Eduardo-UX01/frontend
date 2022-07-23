@@ -124,10 +124,10 @@ body {
 }
 @keyframes alrededor {
   from {
-    left: -270px;
+    left: -300px;
   }
   to {
-    left: 270px;
+    left: 300px;
   }
 }
 
